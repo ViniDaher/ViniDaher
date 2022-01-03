@@ -1,7 +1,7 @@
 ## Iae, eu sou o Vinícius Daher 🐙
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinidaher&show_icons=true&theme=onedark&locale=pt-br&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinidaher&layout=compact&locale=pt-br&langs_count=7&theme=onedark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vinidaher&show_icons=true&theme=onedark&locale=pt-br&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinidaher&layout=compact&locale=pt-br&langs_count=7&theme=onedark"/>
 </div>
 
   ##
